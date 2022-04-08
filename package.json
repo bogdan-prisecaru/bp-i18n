@@ -1,0 +1,18 @@
+{
+    "author": "Prisecaru Bogdan",
+    "description": "An internationalization kit with Nodemailer",
+    "license": "MIT",
+    "main": "index.js",
+    "name": "bp-i18n",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/bogdan-prisecaru/bp-i18n.git"
+    },
+    "scripts": {
+        "start": "node ./scripts/main.js"
+    },
+    "version": "0.0.1",
+    "devDependencies": {
+        "nodemailer": "^6.7.2"
+    }
+}
